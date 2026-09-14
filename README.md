@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Ylann Wattrelos </h1>
+<h3 align="center">  </h3>
 
-<!--
-**ylannwattrelos/ylannwattrelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ylannwattrelos.github.io/Portfolio/">Official Website</a> |
+  <a href="">LinkedIn</a> |
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">  What I use  </h2>
+  <p align = "center">
+       <a href="https://github.com/yannouuuu/">
+          <img src="https://skillicons.dev/icons?i=codepen,html,pug,css,scss,astro,git,ai,md,discord,eclipse,electron,figma,obsidian,github,webstorm,idea,latex,windows,ubuntu,linux,vercel,nodejs,powershell,py,java,,,,,,tailwind,postgres,vscode&theme=dark&perline=13"alt="My Skills"/> 
+      </a>
+  </p>
+<br>
+  
+<br>
+
+<div>
+  <h2 align="center"> 👀 View counter 👀 </h2>
+  <div align="center">
+  <a href="https://github.com/yannouuuu/">
+  <img src="https://count.getloli.com/@yannouuuu?theme=moebooru-h" alt="yannouuuu"/>
+</div>
+<br>
