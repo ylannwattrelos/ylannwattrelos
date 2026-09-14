@@ -11,17 +11,7 @@
 <h2 align="center">  What I use  </h2>
   <p align = "center">
        <a href="https://github.com/yannouuuu/">
-          <img src="https://skillicons.dev/icons?i=html,css,scss,git,ai,md,discord,figma,github,idea,latex,ubuntu,linux,nodejs,powershell,py,java,,,,,,postgres,vscode&theme=dark&perline=13"alt="My Skills"/> 
+          <img src="https://skillicons.dev/icons?i=html,css,scss,git,ai,md,discord,figma,github,idea,latex,ubuntu,linux,nodejs,powershell,py,java,postgres,vscode&theme=dark&perline=13"alt="My Skills"/> 
       </a>
   </p>
-<br>
-  
-<br>
-
-<div>
-  <h2 align="center"> 👀 View counter 👀 </h2>
-  <div align="center">
-  <a href="https://github.com/yannouuuu/">
-  <img src="https://count.getloli.com/@yannouuuu?theme=moebooru-h" alt="yannouuuu"/>
-</div>
 <br>
