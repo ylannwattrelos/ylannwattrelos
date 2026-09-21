@@ -10,7 +10,7 @@
 
 <h2 align="center">  What I use  </h2>
   <p align = "center">
-       <a href="https://github.com/yannouuuu/">
+       <a href="https://github.com/ylannwattrelos/">
           <img src="https://skillicons.dev/icons?i=html,css,scss,git,ai,md,discord,figma,github,idea,latex,ubuntu,linux,nodejs,powershell,py,java,postgres,vscode,ts,js,bash,npm,mysql,docker,spring&theme=dark&perline=13" alt="My Skills"/>
       </a>
   </p>
